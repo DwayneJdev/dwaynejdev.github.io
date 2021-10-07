@@ -1,3 +1,71 @@
+#header{
+    background-image: url(assets/cabin-g2c1294809_1920.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 120vh;
+    width: 99vw;
+}
+
+.container-fluid{
+    background: transparent;
+}
+
+.flexStuff{
+    display: flex;
+}
+
+#AboutMe{
+    padding: 100px; 
+    display: ;
+}
+
+h4{
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+}
+
+h1{
+    text-align: center;
+    padding-top: 390px;
+    font-size: 50px;
+    position: relative;
+}
+
 body{
-    background-color: burlywood;
+    background-color: rgb(90, 87, 87);
+}
+
+#bio{
+    float: left;
+    font-size: 25px;
+}
+
+#headshot{
+
+}
+
+h2{
+    text-align: center;
+}
+
+#Projects{
+padding-top: 50px;
+}
+#contact{
+    margin-top: 15vh;
+}
+
+footer{
+    padding-top: 100px;
+}
+
+h3{
+    padding-top: 80px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#Projects{
+    
 }
